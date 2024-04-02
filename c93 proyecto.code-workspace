@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../c93"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "c93 proyecto"
+	}
+}
